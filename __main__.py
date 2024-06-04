@@ -116,8 +116,7 @@ def main():
     # Display a welcome message
     print("✨ Welcome to the TEA Encryption and Decryption Program! ✨")
     print("This program is brought to you by Eng. Hala.")
-    print("Get ready to dive into the world of cryptography!")
-    print("Let's start by processing your image file. 🚀")
+   
 
     # Ask user to enter the image path
     image_path = input("Please enter the path to the image file: ")
